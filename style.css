@@ -1,0 +1,10 @@
+body {
+       background-color: #fff8dc;
+      font-family: Georgia, serif;
+       padding: 20px;
+   }
+
+   img {
+       border: 2px solid #ffa500;
+       border-radius: 10px;
+  }
